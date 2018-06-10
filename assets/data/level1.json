@@ -1,0 +1,81 @@
+[
+	{
+		"filePath" 	: "ice.png",
+		"name" 		: "ice",
+		"x" 		: 313.00f,
+		"y" 		: 70.500f,
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "ice.png",
+		"name" 		: "ice",
+		"x" 		: 313.00f,
+		"y" 		: 97.500f,
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "ice.png",
+		"name" 		: "ice",
+		"x" 		: 313.00f,			
+		"y" 		: 124.50f,	
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "ice.png",
+		"name" 		: "ice",
+		"x" 		: 313.00f,
+		"y" 		: 151.50f,		
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "ice.png",	
+		"name" 		: "ice",	
+		"x" 		: 313.00f,		
+		"y" 		: 178.50f,	
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "ice.png",
+		"name" 		: "ice",	
+		"x" 		: 313.00f,		
+		"y" 		: 205.50f,	
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "ice.png",	
+		"name" 		: "ice",		
+		"x" 		: 313.00f,	
+		"y" 		: 232.50f,	
+		"scale" 	: 0.30f,
+		"shape"		: "polygon"
+	},
+	{
+		"filePath" 	: "pig.png",	
+		"name" 		: "pig",		
+		"x" 		: 400.00f,		
+		"y" 		: 72.000f,	
+		"scale" 	: 0.30f,
+		"shape"		: "circle"
+	},
+	{
+		"filePath" 	: "pig.png",	
+		"name" 		: "pig",			
+		"x" 		: 200.00f,	
+		"y" 		: 72.000f,	
+		"scale" 	: 0.30f,
+		"shape"		: "circle"
+	}
+]
+
+
+
+
+
+
+

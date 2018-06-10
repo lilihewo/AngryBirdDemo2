@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">愤怒的小鸟Demo</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="input_email">输入邮箱的地址</string>
+	<string name="send_email">发送验证邮件</string>
+</resources>
